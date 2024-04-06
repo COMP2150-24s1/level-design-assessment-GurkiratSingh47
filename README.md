@@ -19,7 +19,7 @@ The discovery element of the game has been very carefully set up me throughout a
 Throughout the level the player keeps discovering new dynamics such as jump and shoot gun , crouch and shoot, push the box and then stand on it . All of this dynamics are discovered while the player tries to complete the game and keeps on facing more and more challenges and difficulties.
 The encounters designed by me in this game and the broader level design facilitates learning in a way that follows good design practice because the player is introduced to all the basic mechanics, jumping over obstacles/enemies, collecting weapons, exploring different paths, dealing with different kinds of platforms which provides the player enough to learn.
 
-![ERROR LOADING THE IMAGE](DocImages/<Map 5.png>)
+![ERROR LOADING THE IMAGE](DocImages/<5.png>)
 
 
 ### 1.2. Drama
@@ -28,7 +28,7 @@ The encounters designed by me in this game and the broader level design facilita
 
 The intensity curve of the game to be dramatically progressing and regressing through the game as the player keeps moving through the different sections of the game. The game starts with very basic understanding of mechanics and then utilizing those mechanics to tackle different enemies. As the player reaches the ending of the first section, the game starts getting complex as there are multiple spitters spitting on the player, chompers , acid pools and spikes . So, from this point, the dramatic curve takes a sharp spike and the game keeps getting more and more complex. The moments of relief are the moments after an intense fight or moment usually after player defeats the enemies, or majorly when the player travels from one section of the map to other one because the player faces lesser enemies so dramatic arc takes a dip
 
-![ERROR LOADING THE IMAGE](DocImages/<Map 1.png>)
+![ERROR LOADING THE IMAGE](DocImages/<1.png>)
 
 ### 1.3. Challenge
 
@@ -40,7 +40,7 @@ Dodge Spits from spitters and kill them
 
 Kill the chompers (if they are in your way)
 
-![ERROR LOADING THE IMAGE](DocImages/<Map 4.png>)
+![ERROR LOADING THE IMAGE](DocImages/<4.png>)
 
 Collect the three keys laid out in the three sections of the map one by one and for that you have to fight all the enemies, make sure you reach the nearest checkpoint first to avoid losing all the progress. The major challenge is to collect the three keys and while doing that the player has to deal with all these other challenges that come in its way.
 
@@ -178,7 +178,7 @@ Level 3:-![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL 3.jpeg>)
 
 ## 4. Iterative Design (~400 words)
 
-![ERROR LOADING THE IMAGE](DocImages/<Map 2.png>)
+![ERROR LOADING THE IMAGE](DocImages/<2.png>)
 
 In my level design, when I started thinking about what to do , about the topology, prototypes and storyboards, there were a cluster of ideas. So I started laying them out one by one, I started by initiating the first section of the game which was going to teach players the basic mechanics of the game and then as it goes further the unsaid dynamics and all the tips and tricks.= The initial levels that I made were very hard  , so the process I followed was I played the game and fixed the problems like excessive spikes, spitters and  checkpoints too far and etc. The process of iterative design helped me understand what exactly was going wrong in the level so I could rectify it after playing and even if I felt something was too easy , I added extra enemies and obstacles at that place to lift the dramatic arc. Overall, the entire level of this game has been built considering three sections with increasing difficulties as the player progresses through them. Some of the problems I experienced were like some of the spawners were not working, so I replayed the game with new spawners to fix it. As I kept playing the game again and again , I got an idea of how will I shape my next section so that it all looks interconnected in a same big level. 
 
