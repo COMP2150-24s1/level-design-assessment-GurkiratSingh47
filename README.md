@@ -120,10 +120,10 @@ The first key is set in a scene where the player has to push the box into acid t
 Storyboards:- 
 
 
-![ERROR LOADING THE STORYBOARDS](DocImages/<STORYBOARDS 1.jpeg>)
+![ERROR LOADING THE STORYBOARDS](DocImages/<STORYBOARDS 1.jpg>)
 
 
-![ERROR LOADING THE STORYBOARDS](DocImages/<STORYBOARDS 2.jpeg>)
+![ERROR LOADING THE STORYBOARDS](DocImages/<STORYBOARDS 2.jpg>)
 
 
 ![ERROR LOADING THE STORYBOARDS](DocImages/<STORYBOARDS 3.jpeg>)
@@ -132,9 +132,9 @@ Storyboards:-
 
 Annonated Level Maps:-
 
-Level 1:- ![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL 1.jpeg>)
+Level 1:- ![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL 1.jpg>)
 
-Level 2:- ![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL 2.jpeg>)
+Level 2:- ![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL 2.jpg>)
 
 Level 3:-![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL 3.jpeg>)
 
@@ -143,7 +143,7 @@ Level 3:-![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL 3.jpeg>)
 ### 3.1. Molecule Diagram
 
 
-![ERROR LOADING THE MOLECULE DIAGRAM](DocImages/<Molecule Diagram.png>)
+![ERROR LOADING THE MOLECULE DIAGRAM](DocImages/<MOLECULE DIAGRAM .png>)
 
 
 
