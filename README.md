@@ -40,7 +40,7 @@ Dodge Spits from spitters and kill them
 
 Kill the chompers (if they are in your way)
 
-![ERROR LOADING THE IMAGE](DocImages/d.PNG)
+![ERROR LOADING THE IMAGE](DocImages/d.png)
 
 Collect the three keys laid out in the three sections of the map one by one and for that you have to fight all the enemies, make sure you reach the nearest checkpoint first to avoid losing all the progress. The major challenge is to collect the three keys and while doing that the player has to deal with all these other challenges that come in its way.
 
@@ -85,32 +85,32 @@ The first health pickup is encountered by the player when he starts going downhi
 
 ### 2.6. Weapon Pickup(Staff)
 The player must pickup staff from the person lying there , defeat the first chomper. This is introduced here to allow the player have time to get used to using staff as there are some more chompers upstairs.
-![ERROR LOADING THE IMAGE](DocImages/<Screenshot(340).png>)
+![ERROR LOADING THE IMAGE](DocImages/ss6.png)
 
 ### 2.7. Chompers
 After picking up the staff , the player has to fight the chomper in order to go up again , so the player learns to use the staff.
 
-![ERROR LOADING THE IMAGE](DocImages/<Screenshot(342).png>)
+![ERROR LOADING THE IMAGE](DocImages/b.png)
 
 ### 2.8. Checkpoints
 The player can kind of save the game by reaching the checkpoints whose whole purpose is to make it easy for the player to complete the game.
 
-![ERROR LOADING THE IMAGE](DocImages/<Screenshot(344).png>)
+![ERROR LOADING THE IMAGE](ss6.png)
 
 
 ### 2.9. Spitters
 The player has to fight with spitter in the next encounter which spits acids in its line of sight. Player should be fluent with staff usage.
 
-![ERROR LOADING THE IMAGE](DocImages/<Screenshot(345).png>)
+![ERROR LOADING THE IMAGE](DocImages/ss5.png)
 ### 2.10 Weapon Pickup(Gun)
 The player has to fight with some spitters , save himself from spikes and pickup gun from its spot.
 
-![ERROR LOADING THE IMAGE](DocImages/<Screenshot 2024-04-06 222305.png>)
+![ERROR LOADING THE IMAGE](DocImages/d.png)
 
 ### 2.11. Keys
 The first key is set in a scene where the player has to push the box into acid then stand on it and jump to collect the key which marks the increasing difficulty of the level.
 
-![ERROR LOADING THE IMAGE](DocImages/Screenshot 2024-04-06 222334.png>)
+![ERROR LOADING THE IMAGE](DocImages/b.png)
 
 
 
@@ -120,30 +120,30 @@ The first key is set in a scene where the player has to push the box into acid t
 Storyboards:- 
 
 
-![ERROR LOADING THE STORYBOARDS](DocImages/<STORYBOARDS1.jpg>)
+![ERROR LOADING THE STORYBOARDS](DocImages/<storyboards1.jpg)
 
 
-![ERROR LOADING THE STORYBOARDS](DocImages/<STORYBOARDS2.jpg>)
+![ERROR LOADING THE STORYBOARDS](DocImages/storyboards2.jpg)
 
 
-![ERROR LOADING THE STORYBOARDS](DocImages/<STORYBOARDS3.jpeg>)
+![ERROR LOADING THE STORYBOARDS](DocImages/storyboards3.jpeg)
 
 
 
 Annonated Level Maps:-
 
-Level 1:- ![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL1.jpg>)
+Level 1:- ![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/amlevel1.jpg)
 
-Level 2:- ![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL2.jpg>)
+Level 2:- ![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/amlevel2.jpg)
 
-Level 3:-![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL3.jpeg>)
+Level 3:-![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/amlevel3.jpeg)
 
 
  
 ### 3.1. Molecule Diagram
 
 
-![ERROR LOADING THE MOLECULE DIAGRAM](DocImages/<MOLECULE DIAGRAM.png>)
+![ERROR LOADING THE MOLECULE DIAGRAM](DocImages/moleculediagram.jpg)
 
 
 
@@ -152,7 +152,7 @@ Level 3:-![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL3.jpeg>)
 
 
 
-![ERROR LOADING THE MAP](DocImages/<Map Section1.png>)
+![ERROR LOADING THE MAP](DocImages/mapsection1.png)
 
 
 
@@ -162,7 +162,7 @@ Level 3:-![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL3.jpeg>)
 
 
 
-![ERROR LOADING THE MAP](DocImages/<Map Section2.png>)
+![ERROR LOADING THE MAP](DocImages/mapsection2.png)
 
 
 
@@ -170,7 +170,7 @@ Level 3:-![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL3.jpeg>)
 ### 3.4.	Level Map – Section 3
 
 
-![ERROR LOADING THE MAP](DocImages/<Map Section3.png>)
+![ERROR LOADING THE MAP](DocImages/mapsection3.png)
 
 
 
@@ -178,7 +178,7 @@ Level 3:-![ERROR LOADING THE ANNONATED LEVEL MAP](DocImages/<AM LEVEL3.jpeg>)
 
 ## 4. Iterative Design (~400 words)
 
-![ERROR LOADING THE IMAGE](DocImages/<2.png>)
+![ERROR LOADING THE IMAGE](DocImages/b.png)
 
 In my level design, when I started thinking about what to do , about the topology, prototypes and storyboards, there were a cluster of ideas. So I started laying them out one by one, I started by initiating the first section of the game which was going to teach players the basic mechanics of the game and then as it goes further the unsaid dynamics and all the tips and tricks.= The initial levels that I made were very hard  , so the process I followed was I played the game and fixed the problems like excessive spikes, spitters and  checkpoints too far and etc. The process of iterative design helped me understand what exactly was going wrong in the level so I could rectify it after playing and even if I felt something was too easy , I added extra enemies and obstacles at that place to lift the dramatic arc. Overall, the entire level of this game has been built considering three sections with increasing difficulties as the player progresses through them. Some of the problems I experienced were like some of the spawners were not working, so I replayed the game with new spawners to fix it. As I kept playing the game again and again , I got an idea of how will I shape my next section so that it all looks interconnected in a same big level. 
 
