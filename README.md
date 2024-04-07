@@ -19,7 +19,7 @@ The discovery element of the game has been very carefully set up me throughout a
 Throughout the level the player keeps discovering new dynamics such as jump and shoot gun , crouch and shoot, push the box and then stand on it . All of this dynamics are discovered while the player tries to complete the game and keeps on facing more and more challenges and difficulties.
 The encounters designed by me in this game and the broader level design facilitates learning in a way that follows good design practice because the player is introduced to all the basic mechanics, jumping over obstacles/enemies, collecting weapons, exploring different paths, dealing with different kinds of platforms which provides the player enough to learn.
 
-![ERROR LOADING THE IMAGE](DocImages/<e.png>)
+![ERROR LOADING THE IMAGE](DocImages/e.png)
 
 
 ### 1.2. Drama
@@ -28,7 +28,7 @@ The encounters designed by me in this game and the broader level design facilita
 
 The intensity curve of the game to be dramatically progressing and regressing through the game as the player keeps moving through the different sections of the game. The game starts with very basic understanding of mechanics and then utilizing those mechanics to tackle different enemies. As the player reaches the ending of the first section, the game starts getting complex as there are multiple spitters spitting on the player, chompers , acid pools and spikes . So, from this point, the dramatic curve takes a sharp spike and the game keeps getting more and more complex. The moments of relief are the moments after an intense fight or moment usually after player defeats the enemies, or majorly when the player travels from one section of the map to other one because the player faces lesser enemies so dramatic arc takes a dip
 
-![ERROR LOADING THE IMAGE](DocImages/<a.png>)
+![ERROR LOADING THE IMAGE](DocImages/a.png)
 
 ### 1.3. Challenge
 
@@ -40,7 +40,7 @@ Dodge Spits from spitters and kill them
 
 Kill the chompers (if they are in your way)
 
-![ERROR LOADING THE IMAGE](DocImages/<d.PNG>)
+![ERROR LOADING THE IMAGE](DocImages/d.PNG)
 
 Collect the three keys laid out in the three sections of the map one by one and for that you have to fight all the enemies, make sure you reach the nearest checkpoint first to avoid losing all the progress. The major challenge is to collect the three keys and while doing that the player has to deal with all these other challenges that come in its way.
 
@@ -49,7 +49,7 @@ I have started the first section on a slow pace difficulty and lesser enemies an
 
 ### 1.4. Exploration
 
-![ERROR LOADING THE IMAGE](DocImages/<3.png>)
+![ERROR LOADING THE IMAGE](DocImages/c.png)
 
 
 In my level design , there are multiple pathways for the player to reach its final destination which is the exit door. I have given the player the automomy to decide whether to use the uphill route or the downhill one which the player will explore and decide as per his own will. The aesthetic and layout choices create distinct and memorable spaces because usually the upper routes are designed to be more difficult while the lower routes are kept moderately difficult but in order to find out those routes the player has to explore a lot and use his brain. So this makes the lower routes memorable spaces for the player if he is able to find out , he is going to remember that route for the next time whenever he plays the game. Overall ,I can say I have provided the player the clear choice to explore different paths, different ways to complete the game, like the player can get the first and third key first and then go for the second one or the player could follow the normal norm of 1-2-3 key. Thus, it can be said that I have successfully implanted exploration in my game/level design.
@@ -60,27 +60,27 @@ In my level design , there are multiple pathways for the player to reach its fin
 ### 2.1. Spikes 
 The spikes are introduced to the player at the very start because for a player, it is important to learn to dodge obstacles.
 
-![ERROR LOADING THE IMAGE](DocImages/<Screenshot(338).png>)
+![ERROR LOADING THE IMAGE](DocImages/ss1.png)
 
 ### 2.2. Moving Platforms
 The next encounter involves the interaction of the player with a moving platform that is going to help the player to cross the acid pool by levitating over it so that the player can stand on it.
 
-![ERROR LOADING THE IMAGE](DocImages/<Screenshot(339).png>)
+![ERROR LOADING THE IMAGE](DocImages/ss2.png)
 
 ### 2.3. Acid
 The first acid pool as an encounter  is introduced so that the player masters how to jump over objects , the player has to patiently wait for the moving platform to come to his end then jump on it and then wait again to reach the other end. 
 
-![ERROR LOADING THE IMAGE](DocImages/<Screenshot(341).png>)
+![ERROR LOADING THE IMAGE](DocImages/ss3.png)
 
 
 ### 2.4. Passthrough Platforms
 The next encounter includes passthrough platforms, i introduced it at the part where the player has to go downhill to collect the staff from the staff 
 Pickup point, the player uses this platform to quickly drop into the lower ground and then jump over the acid to pick up the staff. 
-![ERROR LOADING THE IMAGE](DocImages/<Screenshot(340).png>)
+![ERROR LOADING THE IMAGE](DocImages/ss4.png)
 
 ### 2.5.Health Pickups
 The first health pickup is encountered by the player when he starts going downhill to collect the staff. The reason behind putting this here is that the player has to fight a chomper.The player has to quickly run down and get the staff and use this if needed.
-![ERROR LOADING THE IMAGE](DocImages/<Screenshot(346).png>)
+![ERROR LOADING THE IMAGE](DocImages/ss5.png)
 
 
 ### 2.6. Weapon Pickup(Staff)
