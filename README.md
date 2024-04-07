@@ -76,7 +76,7 @@ The first acid pool as an encounter  is introduced so that the player masters ho
 ### 2.4. Passthrough Platforms
 The next encounter includes passthrough platforms, i introduced it at the part where the player has to go downhill to collect the staff from the staff 
 Pickup point, the player uses this platform to quickly drop into the lower ground and then jump over the acid to pick up the staff. 
-![ERROR LOADING THE IMAGE](DocImages/ss4.png)
+![ERROR LOADING THE IMAGE](DocImages/ss5.png)
 
 ### 2.5.Health Pickups
 The first health pickup is encountered by the player when he starts going downhill to collect the staff. The reason behind putting this here is that the player has to fight a chomper.The player has to quickly run down and get the staff and use this if needed.
@@ -85,7 +85,7 @@ The first health pickup is encountered by the player when he starts going downhi
 
 ### 2.6. Weapon Pickup(Staff)
 The player must pickup staff from the person lying there , defeat the first chomper. This is introduced here to allow the player have time to get used to using staff as there are some more chompers upstairs.
-![ERROR LOADING THE IMAGE](DocImages/ss6.png)
+![ERROR LOADING THE IMAGE](DocImages/ss3.png)
 
 ### 2.7. Chompers
 After picking up the staff , the player has to fight the chomper in order to go up again , so the player learns to use the staff.
@@ -95,13 +95,13 @@ After picking up the staff , the player has to fight the chomper in order to go 
 ### 2.8. Checkpoints
 The player can kind of save the game by reaching the checkpoints whose whole purpose is to make it easy for the player to complete the game.
 
-![ERROR LOADING THE IMAGE](ss6.png)
+![ERROR LOADING THE IMAGE](DocImages/ss4.png)
 
 
 ### 2.9. Spitters
 The player has to fight with spitter in the next encounter which spits acids in its line of sight. Player should be fluent with staff usage.
 
-![ERROR LOADING THE IMAGE](DocImages/ss5.png)
+![ERROR LOADING THE IMAGE](DocImages/e.png)
 ### 2.10 Weapon Pickup(Gun)
 The player has to fight with some spitters , save himself from spikes and pickup gun from its spot.
 
@@ -110,7 +110,7 @@ The player has to fight with some spitters , save himself from spikes and pickup
 ### 2.11. Keys
 The first key is set in a scene where the player has to push the box into acid then stand on it and jump to collect the key which marks the increasing difficulty of the level.
 
-![ERROR LOADING THE IMAGE](DocImages/b.png)
+![ERROR LOADING THE IMAGE](DocImages/ss5.png)
 
 
 
@@ -120,7 +120,7 @@ The first key is set in a scene where the player has to push the box into acid t
 Storyboards:- 
 
 
-![ERROR LOADING THE STORYBOARDS](DocImages/<storyboards1.jpg)
+![ERROR LOADING THE STORYBOARDS](DocImages/storyboards1.jpg)
 
 
 ![ERROR LOADING THE STORYBOARDS](DocImages/storyboards2.jpg)
